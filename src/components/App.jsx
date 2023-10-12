@@ -21,7 +21,7 @@ export const App = () => {
       }}
     >
       <Profile {...user}></Profile>
-      <Statistics stats={stat}></Statistics>
+      <Statistics statistic={stat}></Statistics>
       <Friendlist friends={friends}></Friendlist>
       <TransactionHistory item={transaction}></TransactionHistory>
     </div>
