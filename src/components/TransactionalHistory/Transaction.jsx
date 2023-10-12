@@ -1,4 +1,4 @@
-import css from './Statictics.module.css';
+import css from './Transaction.module.css';
 import PropTypes from 'prop-types';
 
 export const TransactionHistory = ({ item }) => {
