@@ -1,6 +1,7 @@
 import css from './Friendlist.module.css';
 import PropTypes from 'prop-types';
 import clsx from 'clsx';
+import React from 'react';
 
 export const Friendlist = ({ friends }) => {
   return (
